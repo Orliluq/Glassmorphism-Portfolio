@@ -5,8 +5,7 @@ This is a static HTML/CSS Glassmorphism Portfolio based on @developedbyed [tutor
 
 ## Sample Screenshot :
 <p align="center">
-  <img  src="![img-portfolio](https://user-images.githubusercontent.com/122529721/229329493-db5529de-c9c7-4bb3-8273-04f87b32dccd.png)
-">
+  <img  src="images/images-portfolio.png">
 
 ### **Live [DEMO](https://orliluq.github.io/Glassmorphism-Portfolio/)**.
 
