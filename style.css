@@ -33,7 +33,7 @@ a {
 main {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
-  background: linear-gradient(to right top, #e15db5, #d92f8c);
+  background: linear-gradient(to right top, #dd3fa8, #d92f8c);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -172,7 +172,7 @@ main {
 }
 .gradient-par {
   font-weight: bold;
-  background: linear-gradient(to right, #de69b7, #701d4a);
+  background: linear-gradient(to right, #eb50b7, #701d4a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
