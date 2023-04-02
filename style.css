@@ -14,13 +14,13 @@ h2,
 p {
   display: inline;
   vertical-align: middle;
-  color: #3e073a;
+  color: #3e071a;
   font-weight: 500;
   opacity: 0.8;
 }
 
 h3 {
-  color: #39032a;
+  color: #210218;
   font-weight: 600;
   font-size: 20px;
   opacity: 0.8;
@@ -33,7 +33,7 @@ a {
 main {
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
-  background: linear-gradient(to right top, #e390c7, #dcb1c9);
+  background: linear-gradient(to right top, #e15db5, #d92f8c);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -166,13 +166,13 @@ main {
 .percentage {
   font-weight: bold;
   font-size: 18px;
-  background: linear-gradient(to right top, #e390c7, #dcb1c9);
+  background: linear-gradient(to right top, #fd2ab7, #e74aa0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .gradient-par {
   font-weight: bold;
-  background: linear-gradient(to right, #e390c7, #dcb1c9);
+  background: linear-gradient(to right, #de69b7, #701d4a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
